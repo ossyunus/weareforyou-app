@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769611054704",
+    "firebase_url": "https://we-are-for-you-app.firebaseio.com",
+    "project_id": "we-are-for-you-app",
+    "storage_bucket": "we-are-for-you-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769611054704:android:4df6f4207f7e3693",
+        "android_client_info": {
+          "package_name": "com.weareforyou.osr.app.weareforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769611054704-f9248ossgajd1uj59rn91bo1n1daevc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lYegDIywHvq5eCmnq1jktOP4p9JAc-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769611054704-f9248ossgajd1uj59rn91bo1n1daevc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769611054704-4io4ftukb7aabkcksenh62scv8ep2bg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weareforyou.osr.app.weareforyou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
